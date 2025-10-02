@@ -1,7 +1,7 @@
 enable: true
 
-title: "Ready to modernize your infrastructure?"
-image: "images/services-web-development.png"
+title: "Ready to modernize your web presence?"
+image: "images/sloth_logo.png"
 button:
-  label: "Schedule a Consultation"
-  link: "#contact"
+  label: "Reach out"
+  link: "mailto:hello@zeroinfra.dev"
