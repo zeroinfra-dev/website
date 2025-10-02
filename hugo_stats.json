@@ -124,8 +124,10 @@
       "xl:translate-y-0"
     ],
     "ids": [
+      "contact",
       "hero",
-      "navbarContent"
+      "navbarContent",
+      "services"
     ]
   }
 }
