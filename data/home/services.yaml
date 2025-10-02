@@ -3,13 +3,6 @@ enable: true
 title: "Our Services"
 text: "Comprehensive infrastructure solutions designed to support your business from development to deployment and beyond."
 cards:
-  - image: "images/services-web-development.png"
-    title: "Web Development & Hosting"
-    text: "Custom websites and web applications built with modern frameworks, coupled with fast and reliable hosting infrastructure. From design to deployment, we provide end-to-end solutions."
-    button:
-      label: "Learn more"
-      link: "#contact"
-
   - image: "images/WordPress-logotype-alternative.png"
     title: "WordPress Hosting"
     text: "Managed WordPress hosting with automatic updates, security hardening, and performance optimization. Focus on content while we handle the technical details."
@@ -25,6 +18,13 @@ cards:
       link: "#contact"
 
   - image: "images/services-web-development.png"
+    title: "Web Development & Hosting"
+    text: "Custom websites and web applications built with modern frameworks, coupled with fast and reliable hosting infrastructure. From design to deployment, we provide end-to-end solutions."
+    button:
+      label: "Learn more"
+      link: "#contact"
+
+  - image: "images/cloud.png"
     title: "Cloud Consultancy"
     text: "Expert guidance for complex infrastructure projects. Architecture design, DevOps automation, migration planning, and ongoing optimization support."
     button:
