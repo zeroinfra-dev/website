@@ -3,9 +3,16 @@ enable: true
 title: "Our Services"
 text: "Comprehensive infrastructure solutions designed to support your business from development to deployment and beyond."
 cards:
-  - image: "images/services-web-development.png"
-    title: "Web Development"
-    text: "Custom websites and web applications built with modern frameworks. Responsive design, optimal performance, and clean code that scales with your business needs."
+  - image: "images/WordPress-logotype-alternative.png"
+    title: "WordPress Hosting"
+    text: "Managed WordPress hosting with automatic updates, security hardening, and performance optimization. Focus on content while we handle the technical details."
+    button:
+      label: "Learn more"
+      link: "#contact"
+
+  - image: "images/logo_nextcloud_blue.png"
+    title: "Nextcloud Hosting"
+    text: "Private cloud storage and collaboration platform. Secure file synchronization, calendar, contacts, and team collaboration tools hosted on your own infrastructure."
     button:
       label: "Learn more"
       link: "#contact"
@@ -17,16 +24,9 @@ cards:
       label: "Learn more"
       link: "#contact"
 
-  - image: "images/WordPress-logotype-alternative.png"
-    title: "WordPress Hosting"
-    text: "Managed WordPress hosting with automatic updates, security hardening, and performance optimization. Focus on content while we handle the technical details."
-    button:
-      label: "Learn more"
-      link: "#contact"
-
-  - image: "images/logo_nextcloud_blue.png"
-    title: "Nextcloud Hosting"
-    text: "Private cloud storage and collaboration platform. Secure file synchronization, calendar, contacts, and team collaboration tools hosted on your own infrastructure."
+  - image: "images/services-web-development.png"
+    title: "Web Development"
+    text: "Custom websites and web applications built with modern frameworks. Responsive design, optimal performance, and clean code that scales with your business needs."
     button:
       label: "Learn more"
       link: "#contact"
