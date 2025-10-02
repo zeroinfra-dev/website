@@ -1,25 +1,60 @@
 enable: true
 
-title: "Our main services"
-text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+title: "Our Services"
+text: "Comprehensive infrastructure solutions designed to support your business from development to deployment and beyond."
 cards:
   - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    title: "Web Development"
+    text: "Custom websites and web applications built with modern frameworks. Responsive design, optimal performance, and clean code that scales with your business needs."
     button:
       label: "Learn more"
-      link: "#"
+      link: "#contact"
 
   - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    title: "Web Hosting"
+    text: "Fast, reliable hosting infrastructure with 99.9% uptime guarantee. Optimized servers, automatic backups, and 24/7 monitoring to keep your site online."
     button:
       label: "Learn more"
-      link: "#"
+      link: "#contact"
 
   - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    title: "WordPress Hosting"
+    text: "Managed WordPress hosting with automatic updates, security hardening, and performance optimization. Focus on content while we handle the technical details."
     button:
       label: "Learn more"
-      link: "#"
+      link: "#contact"
+
+  - image: "images/services-web-development.png"
+    title: "Nextcloud Hosting"
+    text: "Private cloud storage and collaboration platform. Secure file synchronization, calendar, contacts, and team collaboration tools hosted on your own infrastructure."
+    button:
+      label: "Learn more"
+      link: "#contact"
+
+  - image: "images/services-web-development.png"
+    title: "Domain Management"
+    text: "Complete domain registration, transfer, and DNS management services. Expert support for domain configuration, SSL certificates, and email routing."
+    button:
+      label: "Learn more"
+      link: "#contact"
+
+  - image: "images/services-web-development.png"
+    title: "Email Hosting"
+    text: "Professional business email with spam protection, encryption, and reliable delivery. Custom domain email addresses with full administrative control."
+    button:
+      label: "Learn more"
+      link: "#contact"
+
+  - image: "images/services-web-development.png"
+    title: "Virtual Machine Hosting"
+    text: "Scalable VPS and virtual machine solutions with full root access. Deploy custom server configurations, manage resources, and scale on demand."
+    button:
+      label: "Learn more"
+      link: "#contact"
+
+  - image: "images/services-web-development.png"
+    title: "Cloud Consultancy"
+    text: "Expert guidance for complex infrastructure projects. Architecture design, DevOps automation, migration planning, and ongoing optimization support."
+    button:
+      label: "Learn more"
+      link: "#contact"

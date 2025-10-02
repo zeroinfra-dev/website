@@ -1,7 +1,7 @@
 +++
-aliases = ["posts", "articles", "blog", "showcase", "docs"]
-title = "Posts"
-description = "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum"
-author = "Hugo Authors"
+aliases = ["posts", "articles", "blog"]
+title = "ZeroInfra Blog"
+description = "Insights, tutorials, and updates on cloud infrastructure, hosting, and web development from the ZeroInfra team."
+author = "ZeroInfra"
 tags = ["index"]
 +++

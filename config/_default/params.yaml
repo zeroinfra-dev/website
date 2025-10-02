@@ -1,6 +1,6 @@
-title: "Up Business"
-description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
-images: 
+title: "ZeroInfra"
+description: "Professional cloud infrastructure services including web hosting, WordPress, Nextcloud, email, domain management, VPS hosting, and cloud consultancy."
+images:
   - "images/hero-image.png"
 
 logo: "arrow-up.png"
@@ -11,13 +11,9 @@ favicons:
   faviconColor: "#000000"
 
 social:
-  dribbble: "#"
-  instagram: "#"
-  facebook: "#"
+  github: "https://github.com/zeroinfra"
+  linkedin: "#"
   twitter: "#"
-
-location:
-  - "3891 Ranchview Dr. Richardson, California 62639"
 
 contact:
   - "hello@zeroinfra.dev"
