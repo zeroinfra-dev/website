@@ -1,5 +1,5 @@
 title: "ZeroInfra"
-description: "Professional cloud infrastructure services including web hosting, WordPress, Nextcloud, email, domain management, VPS hosting, and cloud consultancy."
+description: "Professional services including WordPress & Nextcloud hosting, Web Development/Hosting, Cloud consultancy."
 images:
   - "images/hero-image.png"
 
@@ -12,8 +12,6 @@ favicons:
 
 social:
   github: "https://github.com/zeroinfra"
-  linkedin: "#"
-  twitter: "#"
 
 contact:
   - "hello@zeroinfra.dev"
