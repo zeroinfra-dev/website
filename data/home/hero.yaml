@@ -5,9 +5,9 @@ text: "From web hosting to complex cloud solutions, ZeroInfra delivers reliable,
 
 buttons:
   - label: "View Services"
-    link: "#services"
+    url: "#services"
 
   - label: "Get Started"
-    link: "#contact"
+    url: "#contact"
 
 image: "images/hero-image.png"
