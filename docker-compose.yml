@@ -1,0 +1,20 @@
+services:
+  hugo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      network: host
+    container_name: zeroinfra-hugo
+    ports:
+      - "1313:1313"
+    volumes:
+      # Mount source code for live reload
+      - .:/app
+      # Exclude node_modules to use container's version
+      - /app/node_modules
+    environment:
+      - HUGO_ENV=development
+    command: hugo server --bind 0.0.0.0 --port 1313 --buildDrafts --buildFuture --disableFastRender
+    restart: unless-stopped
+    network_mode: "host"
+
