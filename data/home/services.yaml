@@ -24,7 +24,7 @@ cards:
       label: "Learn more"
       link: "#contact"
 
-  - image: "images/nextcloud_logo.png"
+  - image: "images/logo_nextcloud_blue.png"
     title: "Nextcloud Hosting"
     text: "Private cloud storage and collaboration platform. Secure file synchronization, calendar, contacts, and team collaboration tools hosted on your own infrastructure."
     button:
