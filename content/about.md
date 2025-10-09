@@ -26,4 +26,4 @@ We can also provide guidance and solutions for specific use cases, just contact 
 
 ### Get In Touch
 
-Ready to modernize your web presence? [Contact us](mailto:hello@zeroinfra.dev) to discuss your project.
+Ready to modernize your web presence? [Contact us](mailto:hello at zeroinfra.dev) to discuss your project.
