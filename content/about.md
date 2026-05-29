@@ -5,7 +5,7 @@ description: "Learn more about ZeroInfra and our mission to provide reliable, sc
 
 ## About ZeroInfra
 
-ZeroInfra is dedicated to providing professional web & cloud services that help businesses focus on what they do best. We handle the technical complexity so you don't have to.
+ZeroInfra is dedicated to providing professional web and cloud services that help businesses focus on what they do best. We handle the technical complexity so you don't have to.
 
 ZeroInfra is a project backed by the "Zero Infra Dev L.P." company based in Athens, Greece. We've been individually working as Site Reliability Engineers or Software Engineers for various companies and ZeroInfra is our joint effort to transform our experience in something new.
 
